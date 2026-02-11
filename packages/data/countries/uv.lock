@@ -1,6 +1,6 @@
 version = 1
 revision = 3
-requires-python = ">=3.14"
+requires-python = "==3.14.3"
 
 [[package]]
 name = "certifi"
@@ -45,7 +45,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "requests", specifier = ">=2.32.5" }]
+requires-dist = [{ name = "requests", specifier = "==2.32.5" }]
 
 [[package]]
 name = "idna"
