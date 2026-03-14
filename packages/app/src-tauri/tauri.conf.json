@@ -1,6 +1,6 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-  "productName": "@legislation/app",
+  "productName": "Legislation",
   "version": "0.0.1",
   "identifier": "io.github.hieudoanm.legislation",
   "build": {
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "@legislation/app",
+        "title": "Legislation",
         "width": 800,
         "height": 600,
         "resizable": true,
