@@ -39,6 +39,9 @@ Legislation is a focused project in this monorepo that delivers a practical tool
 - 💻 [CLI](https://github.com/hieudoanm/legislation/releases)
 - 📱 [Mobile](https://github.com/hieudoanm/legislation/releases)
 - 🖥️ [Desktop](https://github.com/hieudoanm/legislation/releases)
+  - 🍎 [MacOS](https://github.com/hieudoanm/legislation/releases/tag/macos-latest)
+  - 🐧 [Ubuntu](https://github.com/hieudoanm/legislation/releases/tag/ubuntu-latest)
+  - 🪟 [Windows](https://github.com/hieudoanm/legislation/releases/tag/windows-latest)
 
 ## 🛠️ 5. Development Stack
 
